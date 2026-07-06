@@ -1,0 +1,14 @@
+﻿# Veliki skup podataka
+sensors/
+
+# Sve slike
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
