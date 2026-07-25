@@ -93,7 +93,7 @@ Several clustering algorithms were applied and compared:
 - Agglomerative Clustering
 - DBSCAN
 - HDBSCAN
-- OPTICS
+- GMM
 
 Clustering quality was evaluated using:
 
